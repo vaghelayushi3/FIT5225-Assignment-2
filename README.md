@@ -1,10 +1,10 @@
-# Aussie EcoLens — FIT5225 Assignment 2
+# Aussie EcoLens - FIT5225 Assignment 2
 
 A multi-cloud serverless wildlife observation platform that automatically detects and tags Australian wildlife species in uploaded media files.
 
 ## Team
-- [Your Name] — [Student ID] — Backend, AWS Infrastructure, ML Integration
-- [Teammate Name] — [Student ID] — Frontend UI, Architecture Diagram, Report
+- Ayushi Vaghela - 35469978 - Backend, AWS Infrastructure, ML Integration
+- Jiayu Liu - 35821442 - Frontend UI, Architecture Diagram
 
 ## Architecture
 - Frontend:React SPA with AWS Cognito authentication
